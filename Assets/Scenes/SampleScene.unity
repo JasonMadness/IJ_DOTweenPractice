@@ -670,6 +670,7 @@ MonoBehaviour:
     \u0433\u043E\u0440\u0438\u0442"
   _thirdText: "\u0421\u0435\u043B \u0432 \u043D\u0435\u0451 \u0438 \u0441\u0433\u043E\u0440\u0435\u043B"
   _duration: 3
+  _loopType: 0
 --- !u!1 &934062506
 GameObject:
   m_ObjectHideFlags: 0
